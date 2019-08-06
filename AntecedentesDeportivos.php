@@ -113,7 +113,7 @@
 
 	<label style="">DEPORTES PRACTICADOS:</label>
 	<br/> 
-	Id_Paciente:
+	Id_Pacientes:
 	<input class="form-control" type="text" id="Id_Paciente" name="Id_Paciente" required placeholder=" Id_Paciente"/><br>
     <br/>
 	</div>
@@ -128,7 +128,7 @@
 	<input type="radio" id="FutbolAmericano" name="FutbolAmericano" value="No"/>No
 
 
-	
+
 	<br/><br/>
 	</div>
 
